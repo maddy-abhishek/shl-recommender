@@ -3,8 +3,9 @@ uvicorn[standard]==0.32.1
 pydantic==2.10.3
 langgraph==0.2.60
 anthropic==0.40.0
-sentence-transformers==3.3.1
 rank-bm25==0.2.2
 numpy==1.26.4
-openai
-python-dotenv
+openai==2.44.0
+python-dotenv==1.0.1
+sentence-transformers==3.3.1
+torch==2.5.1
